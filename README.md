@@ -47,25 +47,6 @@ lib/
 └── units.dart
 
 ---
-
-## ⚙️ Installation & Setup
-
-To run the project locally:
-
-```bash
-# Clone this repository
-git clone https://github.com/<your-username>/convertly.git
-
-# Navigate to the project directory
-cd convertly
-
-# Get Flutter dependencies
-flutter pub get
-
-# Run the app on an emulator or device
-flutter run
-
----
 ## 🧭 Usage
 
 1. **Open the app.**  
@@ -101,6 +82,26 @@ flutter run
 
 <img width="514" height="639" alt="homePage" src="https://github.com/user-attachments/assets/ebcfc588-f982-4669-909b-1e8b1bc233ff" />
 <img width="509" height="438" alt="category" src="https://github.com/user-attachments/assets/0bb9118f-631d-4e11-83e9-0409c3302629" />
+
+--- 
+## ⚙️ Installation & Setup
+
+To run the project locally:
+
+```bash
+# Clone this repository
+git clone https://github.com/<Mariam-El-Jarkas>/convertly.git
+
+# Navigate to the project directory
+cd convertly
+
+# Get Flutter dependencies
+flutter pub get
+
+# Run the app on an emulator or device
+flutter run
+
+
 
 
 
