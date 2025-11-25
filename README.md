@@ -74,7 +74,7 @@ lib/
 **Developed by:** Mariam El Jarkas  
 **Course Project:** CSCI410  
 **University:** LIU  
-**Instructor:** Dr. Bassel Dhaini  
+**Instructor:** Dr. mhmd kadri
 
 ---
 
